@@ -1,3 +1,7 @@
 J. Chen, Y. Chen, Z. Wang, H. Zhang, and X. Peng, Spectral embedding fusion for incomplete multiview clustering, IEEE Trans. Image Process., pp. 1-15, Jul. 2024, DOI: 10.1109/TIP.2024.3420796.
 
+1. Please run ‘run_main_utgl.m.m’ to obtain the clustering results.
+2. Please run ‘run_main_utgl_parameters.m’ to obtain the optimal parameters of USETL on the datasets.
+3. The other datasets are available online at https://codeocean.com/capsule/6355940/tree/v2
+
 Please feel free to contact me by Email chenjie2010@scu.edu.cn if you have any questions. Thank you.
